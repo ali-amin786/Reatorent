@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400">
+  <defs>
+    <radialGradient id="bgGrad_beef_chapli_single.svg" cx="50%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#682414" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#141414"/>
+    </radialGradient>
+  </defs>
+  <rect width="600" height="400" fill="url(#bgGrad_beef_chapli_single.svg)"/>
+  <circle cx="300" cy="170" r="110" fill="#1e1e1e" stroke="#ecb365" stroke-width="4"/>
+  <circle cx="300" cy="170" r="95" fill="#171717" stroke="#c84b31" stroke-dasharray="6,4" stroke-width="3"/>
+  <text x="300" y="195" font-size="70" text-anchor="middle" dominant-baseline="middle">🥩</text>
+  <rect x="40" y="300" width="520" height="75" rx="12" fill="#181818" stroke="#ecb365" stroke-width="1.5" opacity="0.95"/>
+  <text x="300" y="332" font-family="'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="bold" fill="#fef08a" text-anchor="middle">Peshawari Beef Chapli Kabab (Single)</text>
+  <text x="300" y="358" font-family="'Segoe UI', Roboto, sans-serif" font-size="14" fill="#d1d5db" text-anchor="middle">Crisp Edges & Sliced Tomato</text>
+</svg>
